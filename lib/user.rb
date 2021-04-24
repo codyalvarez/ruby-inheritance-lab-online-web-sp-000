@@ -10,6 +10,6 @@ class User
   end
 
   def new
-
+    KNOWLEDGE
   end
 end
